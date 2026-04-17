@@ -97,15 +97,4 @@ npm run dev
 ```
 
 
-## 核心模块
-
-- `AiCodeHelperService`: 核心对话服务
-- `QwenChatModelConfig`: 模型配置管理
-- `RagConfig`: 检索增强配置
-- `McpConfig`: 模型上下文协议
-
-- `InterviewQuestionTool`: 面试题搜索
-- `SafeInputGuardrail`: 输入安全防护
-- `ChatModelListener`: 对话监听器
-
 
